@@ -1,6 +1,5 @@
 ### The code of  "Conv-Transformer Fusion: Monocular Depth Estimation with Convolutions and Transformers"
 
-[toc]
 
 
 
